@@ -20,7 +20,7 @@
   <img align = "center" alt = "Enzo-Python" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg ">
   <img align = "center" alt = "Enzo-Kotlin" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg ">
   <img align = "center" alt = "Enzo-Java" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg ">
-  <img align = "right" alt = "Enzo" src = "https://tenor.com/view/walking-code-computer-gif-11570098">
+  <img align = "right" alt = "Enzo" height = "150"  src = "https://c.tenor.com/Z_Ah8rkdZ4YAAAAC/walking-code.gif">
 </div>
   
   ##

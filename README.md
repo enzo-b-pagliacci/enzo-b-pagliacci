@@ -1,9 +1,16 @@
 ### Eai? Aqui é o Enzo 👋
+<p>•💼Hoje estou a procura de emprego</p>
+<p>•📋Tenho conhecimento a nível técnico de: HTML/CSS/JavaScript/Bootstrap/SQL</p>
+<p>•📋Tenho conhecimento intermediário em: Git Hub e Chat-bot (Watson Assistant)</p>
+<p>•🌱Estou aprendendo: Python/Java/React JS/node-red/Kotlin</p>
+
 <div>
   <a href="https://github.com/enzo-b-pagliacci">
   <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=enzo-b-pagliacci&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-b-pagliacci&layout=compact&langs_count=16&theme=dark" />
 </div>
+  
+  
   
   <div style = "display: inline_block"> <br>
   <img align = "center" alt = "Enzo-Js" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
@@ -11,7 +18,9 @@
   <img align = "center" alt = "Enzo-HTML" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
   <img align = "center" alt = "Enzo-CSS" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
   <img align = "center" alt = "Enzo-Python" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg ">
-  <img align = "right" alt = "Enzo" src = "https://user-images.githubusercontent.com/80040630/129293756-d1a54b55-4b89-4daa-88ce-e771631c255e.gif">
+  <img align = "center" alt = "Enzo-Kotlin" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg ">
+  <img align = "center" alt = "Enzo-Java" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg ">
+  <img align = "right" alt = "Enzo" src = "https://tenor.com/view/walking-code-computer-gif-11570098">
 </div>
   
   ##

@@ -1,19 +1,19 @@
 ### Eai? Aqui é o Enzo 👋
 <p>•💼Hoje estou a procura de emprego</p>
-<p>•📋Tenho conhecimento em: HTML/CSS/JavaScript/Bootstrap/SQL/Python/Java/React JS/node-red/Kotlin/Git Hub/Chat-bot (Watson Assistant)</p>
-<p>•HTML / CSS / JavaScript / Bootstrap</p>
-<p>&nbsp&nbsp•React Js</p>
-<p>&nbsp&nbsp•React Native</p>
-<p>&nbsp&nbsp•RestFull Web Sevice</p>
-<p>&nbsp&nbsp•Java JSF</p>
-<p>&nbsp&nbsp•Java JPA</p>
-<p>&nbsp&nbsp•Python Machine Learning</p>
-<p>&nbsp&nbsp•Chat-Bot</p>
-<p>&nbsp&nbsp•Banco de Dados Microsoft Azure</p>
-<p>&nbsp&nbsp•Virtual Machine</p>
-<p>&nbsp&nbsp•Google Ads</p>
-<p>&nbsp&nbsp•Facebook Ads</p>
-<p>&nbsp&nbsp•Copywriting</p>
+<p>•📋Tenho conhecimento em:</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-HTML / CSS / JavaScript / Bootstrap</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-React Js</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-React Native</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-RestFull Web Sevice</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Java JSF</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Java JPA</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Python Machine Learning</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Chat-Bot</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Banco de Dados Microsoft Azure</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Virtual Machine</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Google Ads</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Facebook Ads</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Copywriting</p>
 <p>•🌱Estou aprendendo: </p>
 
 <div>

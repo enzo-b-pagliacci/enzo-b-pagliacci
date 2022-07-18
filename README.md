@@ -3,18 +3,19 @@
 <p>•📋Tenho conhecimento em:</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp-HTML / CSS / JavaScript / Bootstrap</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp-React Js</p>
-<p>&nbsp&nbsp&nbsp&nbsp&nbsp-React Native</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp-RestFull Web Sevice</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Chat-Bot</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Banco de Dados</p> 
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Virtual Machine</p>
+<p>•🌱Estou aprendendo: </p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-React Native</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp-Java JSF</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp-Java JPA</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp-Python Machine Learning</p>
-<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Chat-Bot</p>
-<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Banco de Dados Microsoft Azure</p>
-<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Virtual Machine</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Microsoft Azure</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp-Google Ads</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp-Facebook Ads</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp-Copywriting</p>
-<p>•🌱Estou aprendendo: </p>
 
 <div>
   <a href="https://github.com/enzo-b-pagliacci">

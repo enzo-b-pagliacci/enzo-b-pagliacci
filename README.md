@@ -1,12 +1,19 @@
-### Eai? Aqui é o Enzo 👋
+### Seja bem-vindo, me chamo Enzo
+# Esteja presente a cada momento e viva com intensidade🔥
 <p>•💼Hoje estou a procura de emprego</p>
-<p>•📋Tenho conhecimento em:</p>
+<p>•📋HARD SKILLS</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp-HTML / CSS / JavaScript / Bootstrap</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp-React Js</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-React Native</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp-RestFull Web Sevice</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Spring Boot</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Java JSF</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Java JPA</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Python</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp-Chat-Bot</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp-Banco de Dados</p> 
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp-Virtual Machine</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Outros...</p>
 <p>•🌱Estou aprendendo: </p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp-React Native</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp-Java JSF</p>

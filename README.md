@@ -14,15 +14,15 @@
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp-Banco de Dados</p> 
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp-Virtual Machine</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp-Outros...</p>
-<p>•🌱Estou aprendendo: </p>
-<p>&nbsp&nbsp&nbsp&nbsp&nbsp-React Native</p>
-<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Java JSF</p>
-<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Java JPA</p>
-<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Python Machine Learning</p>
-<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Microsoft Azure</p>
-<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Google Ads</p>
-<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Facebook Ads</p>
-<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Copywriting</p>
+<p>•🌱Soft Skills </p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Gerência e liderança de equipe</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Desenvolvimento sob pressão</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Boa comunicabilidade e facilidade de se relacionar</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Facilidade de se adaptar a uma nova ferramenta</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Facilidade de aprender uma nova linguagem de programação</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Capacidade Analítica</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Pensamento científico, crítico e criativo</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp-Comunicação persuasiva com cliente</p>
 
 <div>
   <a href="https://github.com/enzo-b-pagliacci">
